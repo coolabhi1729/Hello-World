@@ -1,2 +1,2 @@
 # Hello-World
-beginning of github
+Beginning of Github
